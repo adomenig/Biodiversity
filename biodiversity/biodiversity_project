@@ -1,0 +1,36 @@
+import os, sys
+import PIL
+from PIL import Image
+
+# python3 biodiversity_project
+
+# counter = 0
+# img = PIL.Image.open(r"/Users/alissadomenig/Downloads/pic1.png")
+# data = img.getdata()
+# new_image = []
+# img.show() 
+# for item in data: 
+#     r, g, b, x = item
+#     if b in range(160, 256):
+#                 new_image.append((255, 0, 0, 255))
+#     else:
+#         new_image.append(item)    
+
+# img.putdata(new_image)
+# pix = img.load()
+ 
+# width, height = img.size
+
+# for x in range(width):
+#     for y in range(height):
+#         if pix[x,y] == (255, 0, 0, 255):
+#             counter += 1
+
+# total_pixels = width * height
+# percentage = counter / total_pixels
+# print(percentage * 100)
+# img.show() 
+        
+
+        
+           
